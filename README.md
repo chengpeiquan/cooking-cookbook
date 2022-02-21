@@ -56,3 +56,9 @@ APP 我没自己开发，如果你有用小红书的话，关注 [@底迪](https
 - 可以在知乎上私信 [@BASS](https://www.zhihu.com/people/basss) ，这也是我的活跃账号
 - 给我发邮件 [chengpeiquan@chengpeiquan.com](chengpeiquan@chengpeiquan.com)
 - 到我的 [博客仓库](https://github.com/chengpeiquan/chengpeiquan.com/issues) 提 issue ，毕竟我的菜谱都托管在博客上面，网页版也是博客的一部分
+
+## 接受 PR 吗？
+
+菜谱都是我自己亲自尝试并且认为好吃值得分享的作品，暂时不接受多人协作写菜谱噢！毕竟互联网已经有了 “下厨房” 、 “美食杰” 这类更加出名的 UGC 产出的平台，我想做一个自己产出的 PGC 产品。
+
+如果你有好吃的推荐，欢迎通过 [问题反馈](#问题反馈) 的方式与我联系，哈哈哈哈我会亲自尝试后撰写一份体验心得并致谢！
